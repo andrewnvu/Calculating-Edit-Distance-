@@ -4,3 +4,5 @@ Program that calculates the edit distance between two strings and finds a proper
 Uses recursion to find the alignment for two strings
 
 This program was built on PyCharm and using Python 3.7.0
+
+Program made for Bioinformatics Course @ CSUF - CPSC 485
